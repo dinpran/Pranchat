@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "233122220835",
+    "project_id": "dinchat-66909",
+    "storage_bucket": "dinchat-66909.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:233122220835:android:131114a44e57709c3e9a96",
+        "android_client_info": {
+          "package_name": "com.DinPran.dinchat.dinchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "233122220835-c1itstl9r0d4u6e2l1rk3sajc96ib783.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.DinPran.dinchat.dinchat",
+            "certificate_hash": "71d23b5607f7dd8e6e0a1057b4430deaae73b06d"
+          }
+        },
+        {
+          "client_id": "233122220835-q5s9v69okurphr5k2val4gdl4c9adnqh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCC9Snrrmp69WYQvHhLzpz5mFgJhmCxXBM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "233122220835-q5s9v69okurphr5k2val4gdl4c9adnqh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
